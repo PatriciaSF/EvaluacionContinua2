@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rubik Cube App</string>
+    <string name="register_name">Rubik Cube App</string>
+    <string name="register">Register</string>
+    <string name="register_input_hint_fullName">Full Name</string>
+    <string name="register_fullName_input_content_description_end_icon">Full Name</string>
+    <string name="register_input_hint_mail">E-mail</string>
+    <string name="register_mail_input_content_description_end_icon">E-mail</string>
+    <string name="register_input_hint_phoneNumber">Phone Number</string>
+    <string name="register_phoneNumber_input_content_description_end_icon">Phone Number</string>
+    <string name="register_input_hint_password">Password</string>
+    <string name="register_Password_input_content_description_end_icon">Password</string>
+    <string name="logintittle">LogIn</string>
+    <string name="homePage">Home Page</string>
+</resources>
